@@ -12,7 +12,7 @@ stacktrace.log
 /*DB.*
 /cobertura.ser
 .DS_Store
-/target/
+*/target/
 /out/
 /web-app/plugins
 /web-app/WEB-INF/classes
@@ -24,3 +24,4 @@ stacktrace.log
 *.iml
 .slcache
 /resources/emails_sent.txt
+/refdata-consumer/target/
